@@ -1,0 +1,14 @@
+{
+  "name": "glitch-test",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:tksmrkm/glitch-test.git",
+  "author": "tksmrkm <nis.murakami@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
